@@ -1,0 +1,10 @@
+you can use aws in 3 ways:
+which inclides 
+
+aws cloudshell : which browers ralated software for managing aws 
+aws cli : command line for aws 
+aws sdk : tools and libraries for aws 
+
+all actions within aws are api calls 
+
+all the aws method listed above use the signature version 4 signing proccess used for credentials signing within aws and add authenitcaion information to our calls 

@@ -1,0 +1,2 @@
+to back up data we can use EBS snapshots , s3 retention policies
+accessing resources like aws lambda and rds 
